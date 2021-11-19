@@ -143,8 +143,7 @@ For any additional questions, please contact **Melvin Garcia garciamelvin4@gmail
 ```
 ├── README.md                           
 ├── Anime_Implicit_Feedback_Recommender.ipynb 
-├── 0-MovieLens_Recommendation_System.pdf 
+├── Anime_Implicit_Feedback_Recommender.pdf 
 ├── MovieTimeRecommenderSystem_Flatiron_Presentation_MG.pdf
-├── data
 └── images
 ```
